@@ -1,0 +1,17 @@
+body{
+    width: 900px;
+    margin: 0 auto;
+    color: #2e6487;
+    background-color: #cde2f0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2, h3{
+    color: #004674;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1{
+    color: #494848;
+    font-family: 'Roboto Slab', serif; 
+}
