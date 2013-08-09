@@ -1,0 +1,28 @@
+body{
+    max-width: 960px;
+    margin: 0 auto 20px auto;
+    padding: 0;
+    background-color: #98D4ED;
+    font-family: 'Raleway', sans-serif;
+    color: #30302F;
+}
+
+#wrapper{
+    width: 100%;
+    background-color: #F7F3E6;
+    margin-top: 0;
+    padding: 20px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #783E00;
+}
+
+hr{
+    color: #000;
+}
+
+h2{
+    color: #783E00;
+}
